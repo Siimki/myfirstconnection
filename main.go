@@ -26,3 +26,4 @@ func main() {
 	fmt.Printf("You entered: %v", inpTxt)
 
 }
+        // Adding comment is enough, right?
