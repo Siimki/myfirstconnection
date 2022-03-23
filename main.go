@@ -12,7 +12,7 @@ func main() {
 	// idea is to test connecting, editing and submitting
 	// changes to GitHub via Git | Maybe i need to do
 	// something else for that to happen but lets hope not
-	//   ~ kaneetz
+	//   ~ kaneetz | v.1
 
 	// Start a scanner
 	scanner := bufio.NewScanner(os.Stdin)
